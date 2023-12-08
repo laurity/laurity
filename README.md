@@ -45,14 +45,8 @@ console.log(HELLO WORLD!!!!!);
     alt="Logo CSS"/></code>
 
 ## Status
-
-<a href="https://github.com/laurity" title="ilustracion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilutracion"/>
-</a>
-
-<a href="https://github.com/laurity" title="stats">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt=stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurity&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurity&show_icons=true&theme=radical)
 
 [linkedin]: https://www.linkedin.com/in/laura-lopez-alonso/
 <br>
@@ -60,4 +54,4 @@ console.log(HELLO WORLD!!!!!);
 ## 📫 Contact me
 👔 [LinkedIn][linkedin]
 
-📧 Feel free to drop me an email at lauralopezalonsodev@email.com.
+📧 Feel free to drop me an email at lauralopezalonsodev@gmail.com.
