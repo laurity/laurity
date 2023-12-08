@@ -1,6 +1,6 @@
 # Hey devs! 👋
 
-👩‍💻 Hello, I'm Laura, a programming and audiovisual editing enthusiast 🎥. At 23 years old, based in Spain 🇪🇸, I specialize in frontend development, exploring the creative possibilities of user interfaces. Additionally, I'm delving into the fascinating world of cybersecurity, learning independently. Welcome to my repository, where my passion for code and visual storytelling converge! 🚀✨
+👩‍💻 Hi there, I'm Laura a 23 year old based in Spain 🇪🇸 with a passion for programming and audiovisual editing 🎥. I specialize in frontend development, where I love exploring the creative side of user interfaces. Beyond that, I'm diving into the intriguing world of cybersecurity, learning independently along the way. Welcome to my repository, where the worlds of code and visual storytelling come together! 🚀✨
 
 🌐 About Me:
 <img align="right" width="300" padding="2" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB1dmVjbXVoZHBwOXliaDA1dXExOWg4ZDI2c2M1MG8xaWZwbHpmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDGeLW6lqI9qyctnV3/giphy.gif"/>
