@@ -71,6 +71,19 @@ console.log(HELLO WORLD!!!!!);
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"
     alt="Logo Linux"/></code>
+    <code><img
+    height="30"
+    src="https://www.adobe.com/content/dam/cc/icons/photoshop.svg"
+    alt="Logo PS"/></code>
+    <code><img
+    height="30"
+    src="https://www.adobe.com/content/dam/cc/icons/premiere.svg"
+    alt="Logo Premiere"/></code>
+    <code><img
+    height="30"
+    src="https://www.adobe.com/content/dam/cc/icons/lightroom-cc.svg"
+    alt="Logo Lightroom"/></code>
+    
 
 
 ## Status
