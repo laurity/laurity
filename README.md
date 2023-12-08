@@ -11,7 +11,7 @@ const lauraLopez = {
   name: "Laura López",
   acknowledgements: "Frontend and Cybersecurity in Progress",
   primarySkillset: "Javascript", "PHP",
-  languages: ["JavaScript", "PHP", "mySQL", "React", "Laravel", "OSINT"]
+  languages: ["JavaScript", "PHP", "MySQL", "React", "Laravel", "OSINT"]
 };
 
 console.log(HELLO WORLD!!!!!);
