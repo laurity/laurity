@@ -6,14 +6,15 @@
 <img align="right" width="300" padding="2" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB1dmVjbXVoZHBwOXliaDA1dXExOWg4ZDI2c2M1MG8xaWZwbHpmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDGeLW6lqI9qyctnV3/giphy.gif"/>
 
 
-```kotlin
-object LauraLopez {
-  val name = "Laura López"
-  val acknowledgements =  Frontend and Cybersecurity in Progress
+```javascript
+const lauraLopez = {
+  name: "Laura López",
+  acknowledgements: "Frontend and Cybersecurity in Progress",
+  primarySkillset: "Javascript",
+  languages: ["JavaScript", "PHP", "mySQL", "React", "Laravel", "OSINT"]
+};
 
-  val primarySkillset = "Javascript"
-  val languages = listOf("JavaScript", "PHP", "mySQL", "React", "Laravel, OSINT")
-}
+console.log(HELLO WORLD!!!!!);
 ```
 
 💻 Languages & Tools:
