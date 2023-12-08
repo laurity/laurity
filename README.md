@@ -1,13 +1,87 @@
-<h1 align="center">Hi 👋, I'm Laura</h1>
-<h3 align="center">I am currently learning about web development and cybersecurity.</h3>
+# Hey devs! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+👩‍💻 Hello, I'm Laura, a programming and audiovisual editing enthusiast 🎥. At 23 years old, based in Spain 🇪🇸, I specialize in frontend development, exploring the creative possibilities of user interfaces. Additionally, I'm delving into the fascinating world of cybersecurity, learning independently. Welcome to my repository, where my passion for code and visual storytelling converge! 🚀✨
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🌐 About Me:
+ a
+<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTB1dmVjbXVoZHBwOXliaDA1dXExOWg4ZDI2c2M1MG8xaWZwbHpmcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDGeLW6lqI9qyctnV3/giphy.gif"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laurity&show_icons=true&locale=en" alt="laurity" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laurity&" alt="laurity" /></p>
+```kotlin
+object LauraLopez {
+  val name = "Laura López"
+  val acknowledgements =  Frontend and Cybersecurity in Progress
+
+  val primarySkillset = "Javascript"
+  val languages = listOf("JavaScript", "PHP", "mySQL", "React", "Laravel, OSINT")
+}
+```
+
+💻 Languages & Tools:
+
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"
+    alt="Logo android"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"
+    alt="Logo kotlin"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
+    alt="Logo firebase"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+    alt="Logo java"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    alt="Logo javascript"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+    alt="Logo visual studio"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+    alt="Logo git"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
+    alt="Logo terminal"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    alt="Logo HTML"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    alt="Logo CSS"/></code>
+
+## Status
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
+
+<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+</a>
+
+[website]: https://codedev.ga/
+[twitter]: https://twitter.com/SEUTWITTER
+[youtube]: https://www.youtube.com/user/SEUYOUTUBE/
+[instagram]: https://www.instagram.com/SEUINSTAGRAM/
+[linkedin]: https://www.linkedin.com/in/SEULINKEDIN/
+
+<br>
+
+## Rede sociais
+
+🏡 [Website][website] **|**
+🐦 [Twitter][twitter] **|**
+📺 [Youtube][youtube] **|**
+📷 [Instagram][instagram] **|**
+👔 [LinkedIn][linkedin]
