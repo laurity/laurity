@@ -25,16 +25,8 @@ console.log(HELLO WORLD!!!!!);
     alt="Logo javascript"/></code>
 <code><img
     height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    alt="Logo visual studio"/></code>
-<code><img
-    height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
     alt="Logo git"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
-    alt="Logo terminal"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
