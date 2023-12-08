@@ -57,7 +57,7 @@ console.log(HELLO WORLD!!!!!);
 [linkedin]: https://www.linkedin.com/in/laura-lopez-alonso/
 <br>
 
-## 📫 Connect with me
+## 📫 Contact me
 👔 [LinkedIn][linkedin]
 
 📧 Feel free to drop me an email at lauralopezalonsodev@email.com.
